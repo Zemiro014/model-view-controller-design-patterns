@@ -8,6 +8,9 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
+/*
+ * A visão é a camada do MVC que representa as interface gráfica (formulários; telas etc)
+ * */
 public class Visao extends JFrame{
 
 	private JTextField numero1 = new JTextField(3);

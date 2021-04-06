@@ -1,7 +1,7 @@
 package br.com.dominio.model;
 
 /*
- * Este é o nosso Java Bean do nosso projecto
+ * O model é a camada que contem os Javas Beans do nosso projecto
  * */
 public class Modelo {
 
